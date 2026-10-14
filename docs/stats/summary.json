@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-14T12:28:09Z",
+  "generated_at": "2026-10-14T13:04:40Z",
   "totals": {
-    "accessions": 11912,
-    "sdrf_files": 12296,
-    "samples": 589502,
-    "runs": 721223,
-    "assay_rows": 864057,
-    "files_with_template": 12275,
-    "accessions_with_template": 11892,
+    "accessions": 11914,
+    "sdrf_files": 12298,
+    "samples": 590835,
+    "runs": 721225,
+    "assay_rows": 865390,
+    "files_with_template": 12277,
+    "accessions_with_template": 11894,
     "instruments": 174,
     "median_runs": 15,
     "max_runs": 8589,
@@ -17,7 +17,7 @@
   "organisms": [
     {
       "name": "Homo sapiens",
-      "count": 5400
+      "count": 5402
     },
     {
       "name": "Mus musculus",
@@ -260,11 +260,11 @@
       "count": 9
     },
     {
-      "name": "Bacteroides thetaiotaomicron",
+      "name": "Mycolicibacterium smegmatis",
       "count": 9
     },
     {
-      "name": "Mycolicibacterium smegmatis",
+      "name": "Bacteroides thetaiotaomicron",
       "count": 9
     },
     {
@@ -672,11 +672,7 @@
       "count": 3
     },
     {
-      "name": "Mediterraneibacter gnavus",
-      "count": 3
-    },
-    {
-      "name": "Xylanibacter ruminicola",
+      "name": "Micrococcus luteus",
       "count": 3
     },
     {
@@ -684,19 +680,23 @@
       "count": 3
     },
     {
-      "name": "Synechococcus elongatus",
-      "count": 3
-    },
-    {
       "name": "Citrobacter freundii",
       "count": 3
     },
     {
-      "name": "Micrococcus luteus",
+      "name": "Mediterraneibacter gnavus",
       "count": 3
     },
     {
       "name": "Bacteroides fragilis",
+      "count": 3
+    },
+    {
+      "name": "Xylanibacter ruminicola",
+      "count": 3
+    },
+    {
+      "name": "Synechococcus elongatus",
       "count": 3
     },
     {
@@ -752,15 +752,7 @@
       "count": 3
     },
     {
-      "name": "Saccharolobus solfataricus",
-      "count": 3
-    },
-    {
-      "name": "Fusarium oxysporum",
-      "count": 3
-    },
-    {
-      "name": "Bacteroides uniformis",
+      "name": "Phaeodactylum tricornutum",
       "count": 3
     },
     {
@@ -768,7 +760,15 @@
       "count": 3
     },
     {
-      "name": "Phaeodactylum tricornutum",
+      "name": "Saccharolobus solfataricus",
+      "count": 3
+    },
+    {
+      "name": "Bacteroides uniformis",
+      "count": 3
+    },
+    {
+      "name": "Fusarium oxysporum",
       "count": 3
     },
     {
@@ -968,7 +968,7 @@
       "count": 2
     },
     {
-      "name": "Faecalibacterium prausnitzii sl3/3",
+      "name": "Rhodococcus jostii",
       "count": 2
     },
     {
@@ -976,15 +976,39 @@
       "count": 2
     },
     {
+      "name": "Paenibacillus polymyxa atcc 842",
+      "count": 2
+    },
+    {
+      "name": "Paracoccus denitrificans",
+      "count": 2
+    },
+    {
       "name": "Streptomyces griseorubens",
       "count": 2
     },
     {
-      "name": "Myxococcus xanthus dz2",
+      "name": "Chryseobacterium indologenes",
       "count": 2
     },
     {
-      "name": "Paenibacillus polymyxa atcc 842",
+      "name": "Alcaligenes faecalis",
+      "count": 2
+    },
+    {
+      "name": "Faecalibacterium prausnitzii sl3/3",
+      "count": 2
+    },
+    {
+      "name": "Stigmatella aurantiaca",
+      "count": 2
+    },
+    {
+      "name": "Coprococcus comes atcc 27758",
+      "count": 2
+    },
+    {
+      "name": "Myxococcus xanthus dz2",
       "count": 2
     },
     {
@@ -996,31 +1020,7 @@
       "count": 2
     },
     {
-      "name": "Coprococcus comes atcc 27758",
-      "count": 2
-    },
-    {
       "name": "Cellulophaga baltica 18",
-      "count": 2
-    },
-    {
-      "name": "Chryseobacterium indologenes",
-      "count": 2
-    },
-    {
-      "name": "Rhodococcus jostii",
-      "count": 2
-    },
-    {
-      "name": "Stigmatella aurantiaca",
-      "count": 2
-    },
-    {
-      "name": "Paracoccus denitrificans",
-      "count": 2
-    },
-    {
-      "name": "Alcaligenes faecalis",
       "count": 2
     },
     {
@@ -1160,15 +1160,15 @@
       "count": 2
     },
     {
-      "name": "Phocaeicola vulgatus",
-      "count": 2
-    },
-    {
       "name": "Pyrococcus furiosus",
       "count": 2
     },
     {
       "name": "Bifidobacterium longum subsp. longum",
+      "count": 2
+    },
+    {
+      "name": "Phocaeicola vulgatus",
       "count": 2
     },
     {
@@ -1228,15 +1228,15 @@
       "count": 2
     },
     {
+      "name": "Influenza a virus",
+      "count": 2
+    },
+    {
       "name": "Human coronavirus 229e",
       "count": 2
     },
     {
       "name": "Orthopoxvirus vaccinia",
-      "count": 2
-    },
-    {
-      "name": "Influenza a virus",
       "count": 2
     },
     {
@@ -1528,11 +1528,11 @@
       "count": 2
     },
     {
-      "name": "Pseudomonas aeruginosa pa103",
+      "name": "Klebsiella oxytoca",
       "count": 2
     },
     {
-      "name": "Klebsiella oxytoca",
+      "name": "Pseudomonas aeruginosa pa103",
       "count": 2
     },
     {
@@ -1592,15 +1592,15 @@
       "count": 1
     },
     {
+      "name": "Ophrys sphegodes",
+      "count": 1
+    },
+    {
       "name": "Ophrys garganica",
       "count": 1
     },
     {
       "name": "Ophrys exaltata",
-      "count": 1
-    },
-    {
-      "name": "Ophrys sphegodes",
       "count": 1
     },
     {
@@ -1788,10 +1788,6 @@
       "count": 1
     },
     {
-      "name": "Phaeobacter (Roseobacter) sp. MED193",
-      "count": 1
-    },
-    {
       "name": "Dokdonia sp. MED134",
       "count": 1
     },
@@ -1800,15 +1796,19 @@
       "count": 1
     },
     {
+      "name": "Phaeobacter (Roseobacter) sp. MED193",
+      "count": 1
+    },
+    {
       "name": "Malassezia sympodialis",
       "count": 1
     },
     {
-      "name": "Anopheles culicifacies b",
+      "name": "Anopheles culicifacies a",
       "count": 1
     },
     {
-      "name": "Anopheles culicifacies a",
+      "name": "Anopheles culicifacies b",
       "count": 1
     },
     {
@@ -2400,11 +2400,27 @@
       "count": 1
     },
     {
-      "name": "Fusobacterium nucleatum subsp. nucleatum",
+      "name": "[Ruminococcus] torques",
       "count": 1
     },
     {
-      "name": "Methanothermobacter marburgensis",
+      "name": "Caldithrix abyssi",
+      "count": 1
+    },
+    {
+      "name": "Methanosarcina barkeri",
+      "count": 1
+    },
+    {
+      "name": "Eggerthella lenta",
+      "count": 1
+    },
+    {
+      "name": "Dorea formicigenerans",
+      "count": 1
+    },
+    {
+      "name": "Winmispira thermophila",
       "count": 1
     },
     {
@@ -2412,7 +2428,11 @@
       "count": 1
     },
     {
-      "name": "Treponema denticola",
+      "name": "Escherichia coli ed1a",
+      "count": 1
+    },
+    {
+      "name": "Agathobacter rectalis",
       "count": 1
     },
     {
@@ -2420,59 +2440,23 @@
       "count": 1
     },
     {
-      "name": "Denitrovibrio acetiphilus",
+      "name": "Chromera velia",
       "count": 1
     },
     {
-      "name": "Thermoproteus tenax",
+      "name": "Coprococcus comes",
       "count": 1
     },
     {
-      "name": "Guillardia theta",
+      "name": "Thermoplasma acidophilum",
       "count": 1
     },
     {
-      "name": "Pseudothermotoga hypogea",
+      "name": "Symbiodinium microadriaticum",
       "count": 1
     },
     {
-      "name": "Methanopyrus kandleri",
-      "count": 1
-    },
-    {
-      "name": "Mycoplasma",
-      "count": 1
-    },
-    {
-      "name": "Escherichia coli ed1a",
-      "count": 1
-    },
-    {
-      "name": "Streptococcus parasanguinis",
-      "count": 1
-    },
-    {
-      "name": "Ferroglobus placidus",
-      "count": 1
-    },
-    {
-      "name": "Synechocystis nigrescens",
-      "count": 1
-    },
-    {
-      "name": "Halobacterium",
-      "count": 1
-    },
-    {
-      "name": "Thermococcus litoralis",
-      "count": 1
-    },
-    {
-      "name": "Haloferax mediterranei",
-      "count": 1
-    },
-    {
-      "name": "Archaeoglobus profundus",
+      "name": "Segatella copri",
       "count": 1
     },
     {
@@ -2480,7 +2464,139 @@
       "count": 1
     },
     {
-      "name": "Eggerthella lenta",
+      "name": "Thermodesulfobacterium commune",
+      "count": 1
+    },
+    {
+      "name": "Thermotoga maritima",
+      "count": 1
+    },
+    {
+      "name": "Odoribacter splanchnicus",
+      "count": 1
+    },
+    {
+      "name": "Thermococcus litoralis",
+      "count": 1
+    },
+    {
+      "name": "Methanocaldococcus jannaschii",
+      "count": 1
+    },
+    {
+      "name": "Ruminococcus bromii",
+      "count": 1
+    },
+    {
+      "name": "Ferroglobus placidus",
+      "count": 1
+    },
+    {
+      "name": "Lacticaseibacillus paracasei",
+      "count": 1
+    },
+    {
+      "name": "Archaeoglobus profundus",
+      "count": 1
+    },
+    {
+      "name": "Fusobacterium nucleatum subsp. nucleatum",
+      "count": 1
+    },
+    {
+      "name": "Mycoplasma",
+      "count": 1
+    },
+    {
+      "name": "Treponema denticola",
+      "count": 1
+    },
+    {
+      "name": "Haloarcula marismortui",
+      "count": 1
+    },
+    {
+      "name": "Haloferax mediterranei",
+      "count": 1
+    },
+    {
+      "name": "Dictyoglomus thermophilum",
+      "count": 1
+    },
+    {
+      "name": "Picrophilus oshimae",
+      "count": 1
+    },
+    {
+      "name": "Petrotoga halophila",
+      "count": 1
+    },
+    {
+      "name": "Aminomonas paucivorans",
+      "count": 1
+    },
+    {
+      "name": "Methanothermobacter marburgensis",
+      "count": 1
+    },
+    {
+      "name": "Pseudothermotoga hypogea",
+      "count": 1
+    },
+    {
+      "name": "Clostridium perfringens",
+      "count": 1
+    },
+    {
+      "name": "Didelphis virginiana",
+      "count": 1
+    },
+    {
+      "name": "Denitrovibrio acetiphilus",
+      "count": 1
+    },
+    {
+      "name": "[Clostridium] saccharolyticum WM1",
+      "count": 1
+    },
+    {
+      "name": "Methanopyrus kandleri",
+      "count": 1
+    },
+    {
+      "name": "Guillardia theta",
+      "count": 1
+    },
+    {
+      "name": "Synechocystis nigrescens",
+      "count": 1
+    },
+    {
+      "name": "Tardigrada",
+      "count": 1
+    },
+    {
+      "name": "Parabacteroides merdae",
+      "count": 1
+    },
+    {
+      "name": "Bifidobacterium adolescentis",
+      "count": 1
+    },
+    {
+      "name": "Halobacterium",
+      "count": 1
+    },
+    {
+      "name": "Persephonella marina",
+      "count": 1
+    },
+    {
+      "name": "Streptococcus parasanguinis",
+      "count": 1
+    },
+    {
+      "name": "Blautia obeum",
       "count": 1
     },
     {
@@ -2492,19 +2608,7 @@
       "count": 1
     },
     {
-      "name": "Parabacteroides merdae",
-      "count": 1
-    },
-    {
-      "name": "Chromera velia",
-      "count": 1
-    },
-    {
-      "name": "Ruminococcus bromii",
-      "count": 1
-    },
-    {
-      "name": "Clostridium perfringens",
+      "name": "Thermoproteus tenax",
       "count": 1
     },
     {
@@ -2512,63 +2616,7 @@
       "count": 1
     },
     {
-      "name": "Stentor coeruleus",
-      "count": 1
-    },
-    {
       "name": "Collinsella aerofaciens",
-      "count": 1
-    },
-    {
-      "name": "Persephonella marina",
-      "count": 1
-    },
-    {
-      "name": "[Ruminococcus] torques",
-      "count": 1
-    },
-    {
-      "name": "Parabacteroides distasonis",
-      "count": 1
-    },
-    {
-      "name": "Methanocaldococcus jannaschii",
-      "count": 1
-    },
-    {
-      "name": "Coprococcus comes",
-      "count": 1
-    },
-    {
-      "name": "Thermotoga maritima",
-      "count": 1
-    },
-    {
-      "name": "[Clostridium] saccharolyticum WM1",
-      "count": 1
-    },
-    {
-      "name": "Agathobacter rectalis",
-      "count": 1
-    },
-    {
-      "name": "Segatella copri",
-      "count": 1
-    },
-    {
-      "name": "Winmispira thermophila",
-      "count": 1
-    },
-    {
-      "name": "Odoribacter splanchnicus",
-      "count": 1
-    },
-    {
-      "name": "Caldithrix abyssi",
-      "count": 1
-    },
-    {
-      "name": "Haloarcula marismortui",
       "count": 1
     },
     {
@@ -2576,31 +2624,7 @@
       "count": 1
     },
     {
-      "name": "Tardigrada",
-      "count": 1
-    },
-    {
       "name": "Enterocloster bolteae",
-      "count": 1
-    },
-    {
-      "name": "Blautia obeum",
-      "count": 1
-    },
-    {
-      "name": "Aminomonas paucivorans",
-      "count": 1
-    },
-    {
-      "name": "Dictyoglomus thermophilum",
-      "count": 1
-    },
-    {
-      "name": "Petrotoga halophila",
-      "count": 1
-    },
-    {
-      "name": "Dorea formicigenerans",
       "count": 1
     },
     {
@@ -2608,35 +2632,11 @@
       "count": 1
     },
     {
-      "name": "Symbiodinium microadriaticum",
+      "name": "Parabacteroides distasonis",
       "count": 1
     },
     {
-      "name": "Picrophilus oshimae",
-      "count": 1
-    },
-    {
-      "name": "Bifidobacterium adolescentis",
-      "count": 1
-    },
-    {
-      "name": "Lacticaseibacillus paracasei",
-      "count": 1
-    },
-    {
-      "name": "Thermoplasma acidophilum",
-      "count": 1
-    },
-    {
-      "name": "Didelphis virginiana",
-      "count": 1
-    },
-    {
-      "name": "Methanosarcina barkeri",
-      "count": 1
-    },
-    {
-      "name": "Thermodesulfobacterium commune",
+      "name": "Stentor coeruleus",
       "count": 1
     },
     {
@@ -2824,11 +2824,7 @@
       "count": 1
     },
     {
-      "name": "Zika virus",
-      "count": 1
-    },
-    {
-      "name": "Rift valley fever virus",
+      "name": "Encephalomyocarditis virus",
       "count": 1
     },
     {
@@ -2836,7 +2832,15 @@
       "count": 1
     },
     {
-      "name": "Encephalomyocarditis virus",
+      "name": "Thogotovirus",
+      "count": 1
+    },
+    {
+      "name": "Zika virus",
+      "count": 1
+    },
+    {
+      "name": "Murine hepatitis virus",
       "count": 1
     },
     {
@@ -2848,11 +2852,7 @@
       "count": 1
     },
     {
-      "name": "Thogotovirus",
-      "count": 1
-    },
-    {
-      "name": "Murine hepatitis virus",
+      "name": "Rift valley fever virus",
       "count": 1
     },
     {
@@ -2960,7 +2960,7 @@
       "count": 1
     },
     {
-      "name": "Staphylococcus caprae",
+      "name": "Staphylococcus capitis",
       "count": 1
     },
     {
@@ -2968,7 +2968,7 @@
       "count": 1
     },
     {
-      "name": "Staphylococcus capitis",
+      "name": "Staphylococcus caprae",
       "count": 1
     },
     {
@@ -3116,7 +3116,7 @@
       "count": 1
     },
     {
-      "name": "Klebsiella pneumoniae jh1",
+      "name": "Klebsiella variicola at-22",
       "count": 1
     },
     {
@@ -3124,7 +3124,7 @@
       "count": 1
     },
     {
-      "name": "Klebsiella variicola at-22",
+      "name": "Klebsiella pneumoniae jh1",
       "count": 1
     },
     {
@@ -3664,15 +3664,15 @@
       "count": 1
     },
     {
+      "name": "Bacteroides uniformis atcc 8492",
+      "count": 1
+    },
+    {
       "name": "Blautia hydrogenotrophica dsm 10507",
       "count": 1
     },
     {
       "name": "Phocaeicola vulgatus atcc 8482",
-      "count": 1
-    },
-    {
-      "name": "Bacteroides uniformis atcc 8492",
       "count": 1
     },
     {
@@ -4280,11 +4280,11 @@
       "count": 1
     },
     {
-      "name": "Suncus murinus",
+      "name": "Hipposideros armiger",
       "count": 1
     },
     {
-      "name": "Hipposideros armiger",
+      "name": "Suncus murinus",
       "count": 1
     },
     {
@@ -4424,23 +4424,7 @@
       "count": 1
     },
     {
-      "name": "Reston ebolavirus",
-      "count": 1
-    },
-    {
-      "name": "Dengue virus type 1",
-      "count": 1
-    },
-    {
-      "name": "Zaire ebolavirus",
-      "count": 1
-    },
-    {
-      "name": "Orthomarburgvirus marburgense",
-      "count": 1
-    },
-    {
-      "name": "Human coronavirus oc43",
+      "name": "Severe acute respiratory syndrome coronavirus",
       "count": 1
     },
     {
@@ -4448,7 +4432,7 @@
       "count": 1
     },
     {
-      "name": "Severe acute respiratory syndrome coronavirus",
+      "name": "Dengue virus type 1",
       "count": 1
     },
     {
@@ -4456,11 +4440,11 @@
       "count": 1
     },
     {
-      "name": "Cowpox virus",
+      "name": "Human respiratory syncytial virus",
       "count": 1
     },
     {
-      "name": "Human respiratory syncytial virus",
+      "name": "Monkeypox virus",
       "count": 1
     },
     {
@@ -4468,7 +4452,23 @@
       "count": 1
     },
     {
-      "name": "Monkeypox virus",
+      "name": "Reston ebolavirus",
+      "count": 1
+    },
+    {
+      "name": "Zaire ebolavirus",
+      "count": 1
+    },
+    {
+      "name": "Human coronavirus oc43",
+      "count": 1
+    },
+    {
+      "name": "Cowpox virus",
+      "count": 1
+    },
+    {
+      "name": "Orthomarburgvirus marburgense",
       "count": 1
     },
     {
@@ -4488,15 +4488,15 @@
       "count": 1
     },
     {
+      "name": "Klebsiella grimontii",
+      "count": 1
+    },
+    {
       "name": "Shigella sonnei",
       "count": 1
     },
     {
-      "name": "Klebsiella quasipneumoniae",
-      "count": 1
-    },
-    {
-      "name": "Klebsiella grimontii",
+      "name": "Enterococcus faecium com15",
       "count": 1
     },
     {
@@ -4504,11 +4504,11 @@
       "count": 1
     },
     {
-      "name": "Morganella morganii subsp. morganii",
+      "name": "Klebsiella quasipneumoniae",
       "count": 1
     },
     {
-      "name": "Enterococcus faecium com15",
+      "name": "Morganella morganii subsp. morganii",
       "count": 1
     },
     {
@@ -4524,11 +4524,11 @@
       "count": 1
     },
     {
-      "name": "Holcus lanatus",
+      "name": "Phleum pratense",
       "count": 1
     },
     {
-      "name": "Phleum pratense",
+      "name": "Holcus lanatus",
       "count": 1
     },
     {
@@ -5144,6 +5144,10 @@
       "count": 1
     },
     {
+      "name": "Naja kaouthia",
+      "count": 1
+    },
+    {
       "name": "Naja fuxi",
       "count": 1
     },
@@ -5153,10 +5157,6 @@
     },
     {
       "name": "Ophiophagus hannah",
-      "count": 1
-    },
-    {
-      "name": "Naja kaouthia",
       "count": 1
     },
     {
@@ -5272,11 +5272,11 @@
       "count": 1
     },
     {
-      "name": "Lactococcus lactis subsp. cremoris",
+      "name": "Lactococcus lactis subsp. lactis",
       "count": 1
     },
     {
-      "name": "Lactococcus lactis subsp. lactis",
+      "name": "Lactococcus lactis subsp. cremoris",
       "count": 1
     },
     {
@@ -5284,11 +5284,11 @@
       "count": 1
     },
     {
-      "name": "Campylobacter coli rm2228",
+      "name": "Campylobacter jejuni subsp. jejuni atcc 33560",
       "count": 1
     },
     {
-      "name": "Campylobacter jejuni subsp. jejuni atcc 33560",
+      "name": "Campylobacter coli rm2228",
       "count": 1
     },
     {
@@ -5335,7 +5335,7 @@
   "samples_by_organism": [
     {
       "name": "Homo sapiens",
-      "count": 354472
+      "count": 355755
     },
     {
       "name": "Mus musculus",
@@ -10852,6 +10852,10 @@
       "count": 771
     },
     {
+      "name": "Down syndrome",
+      "count": 755
+    },
+    {
       "name": "chronic lymphocytic leukemia",
       "count": 735
     },
@@ -14288,10 +14292,6 @@
       "count": 3
     },
     {
-      "name": "Down syndrome",
-      "count": 3
-    },
-    {
       "name": "Pancreatic carcinoma",
       "count": 3
     },
@@ -15259,66 +15259,66 @@
   "completeness": [
     {
       "name": "organism",
-      "filled": 589171,
-      "applicable": 589171,
-      "not_applicable": 331,
+      "filled": 590454,
+      "applicable": 590454,
+      "not_applicable": 381,
       "pct": 100.0
     },
     {
       "name": "organism part",
-      "filled": 444804,
-      "applicable": 561910,
-      "not_applicable": 27592,
+      "filled": 446087,
+      "applicable": 563193,
+      "not_applicable": 27642,
       "pct": 79.2
     },
     {
       "name": "disease",
-      "filled": 242093,
-      "applicable": 563632,
-      "not_applicable": 25870,
-      "pct": 43.0
+      "filled": 243142,
+      "applicable": 564707,
+      "not_applicable": 26128,
+      "pct": 43.1
     },
     {
       "name": "cell type",
       "filled": 61012,
       "applicable": 274871,
-      "not_applicable": 314631,
+      "not_applicable": 315964,
       "pct": 22.2
     },
     {
       "name": "age",
-      "filled": 53446,
-      "applicable": 588462,
+      "filled": 54495,
+      "applicable": 589795,
       "not_applicable": 1040,
-      "pct": 9.1
+      "pct": 9.2
     },
     {
       "name": "sex",
-      "filled": 86811,
-      "applicable": 582228,
-      "not_applicable": 7274,
-      "pct": 14.9
+      "filled": 87860,
+      "applicable": 583303,
+      "not_applicable": 7532,
+      "pct": 15.1
     },
     {
       "name": "developmental stage",
       "filled": 80577,
-      "applicable": 588140,
+      "applicable": 589473,
       "not_applicable": 1362,
       "pct": 13.7
     },
     {
       "name": "ancestry category",
       "filled": 10601,
-      "applicable": 584249,
+      "applicable": 585582,
       "not_applicable": 5253,
       "pct": 1.8
     },
     {
       "name": "cell line",
       "filled": 43931,
-      "applicable": 581499,
+      "applicable": 582832,
       "not_applicable": 8003,
-      "pct": 7.6
+      "pct": 7.5
     }
   ],
   "completeness_by_organism": [
@@ -15327,37 +15327,37 @@
       "fields": [
         {
           "name": "organism part",
-          "filled": 293253,
-          "applicable": 340581,
+          "filled": 294536,
+          "applicable": 341864,
           "not_applicable": 13891,
-          "pct": 86.1
+          "pct": 86.2
         },
         {
           "name": "disease",
-          "filled": 189864,
-          "applicable": 344846,
-          "not_applicable": 9626,
-          "pct": 55.1
+          "filled": 190913,
+          "applicable": 345921,
+          "not_applicable": 9834,
+          "pct": 55.2
         },
         {
           "name": "age",
-          "filled": 48355,
-          "applicable": 353587,
+          "filled": 49404,
+          "applicable": 354870,
           "not_applicable": 885,
-          "pct": 13.7
+          "pct": 13.9
         },
         {
           "name": "sex",
-          "filled": 68338,
-          "applicable": 350870,
-          "not_applicable": 3602,
-          "pct": 19.5
+          "filled": 69387,
+          "applicable": 351945,
+          "not_applicable": 3810,
+          "pct": 19.7
         },
         {
           "name": "cell type",
           "filled": 50507,
           "applicable": 174876,
-          "not_applicable": 179596,
+          "not_applicable": 180879,
           "pct": 28.9
         }
       ]
@@ -15652,8 +15652,8 @@
     },
     {
       "name": "human",
-      "accessions": 3903,
-      "files": 4043,
+      "accessions": 3905,
+      "files": 4045,
       "layer": "Sample"
     },
     {
@@ -15742,8 +15742,8 @@
     },
     {
       "name": "affinity-proteomics",
-      "accessions": 32,
-      "files": 32,
+      "accessions": 34,
+      "files": 34,
       "layer": "Technology"
     }
   ],
@@ -15780,8 +15780,8 @@
     },
     {
       "name": "Affinity proteomics",
-      "accessions": 32,
-      "files": 32
+      "accessions": 34,
+      "files": 34
     },
     {
       "name": "Clinical",
@@ -15795,21 +15795,21 @@
     }
   ],
   "contributions": {
-    "attributed_files": 12296,
+    "attributed_files": 12298,
     "unattributed_files": 0,
     "human_contributors": 30,
     "ai_agents": 5,
     "multi_agent_accessions": 341,
-    "unidentified_accessions": 3935,
+    "unidentified_accessions": 3937,
     "github_prs_ai_prose_only": 171,
-    "github_prs_scanned": 1469,
+    "github_prs_scanned": 1471,
     "github_prs_with_agent": 767,
     "github_pr_fetch": "ok",
     "origin": [
       {
         "name": "Human-only",
-        "accessions": 3935,
-        "files": 4102
+        "accessions": 3937,
+        "files": 4104
       },
       {
         "name": "Agent-assisted",
@@ -16545,11 +16545,11 @@
       "count": 1
     },
     {
-      "name": "Orbitrap QE HF",
+      "name": "Orbitrap Tribrid Eclipse",
       "count": 1
     },
     {
-      "name": "Orbitrap Tribrid Eclipse",
+      "name": "Orbitrap QE HF",
       "count": 1
     },
     {
@@ -17770,7 +17770,7 @@
   "run_bins": [
     {
       "name": "1",
-      "count": 685
+      "count": 687
     },
     {
       "name": "2",
@@ -17806,12 +17806,12 @@
     }
   ],
   "coverage": {
-    "proteomexchange_public": 57187,
+    "proteomexchange_public": 57188,
     "proteomexchange_annotated": 11854,
     "pride_public": 42027,
-    "pride_annotated": 11690,
+    "pride_annotated": 11692,
     "pride_match": "proteomecentral",
-    "fetched_at": "2026-10-14T12:30:34Z",
+    "fetched_at": "2026-10-14T13:06:40Z",
     "source_px": "https://proteomecentral.proteomexchange.org/api/proxi/v0.1/datasets",
     "source_pride": "https://www.ebi.ac.uk/pride/ws/archive/v3/projects/count"
   }
